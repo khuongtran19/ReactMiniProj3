@@ -1,3 +1,14 @@
+# This project was create for learning React.
+To start the project use command line '**npm start**'. Type anything you want to search in the box then press **Enter**
+
+This project is to show how to input the value then from that value we can send api request. The final step will be showing the result through response from api request. Also using createRef to control grid.
+
+Tech and stacks in this project including:
+- Unsplash - [unsplash.com](https://unsplash.com/) this website generate random image through api.
+- Grid
+- Semantic UI CDN - [semantic](https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.4.1/semantic.min.css)
+- Ref - [createRef](https://reactjs.org/docs/refs-and-the-dom.html)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
